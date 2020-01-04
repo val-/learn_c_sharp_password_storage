@@ -1,0 +1,6 @@
+<storage>
+    <site url="yandex.ru" login="jane@ya.ru" password="PASSWORD_FOR_YANDEX"/>
+    <site url="mail.ru" login="jane@mail.ru" password="PASSWORD_FOR_MAIL_RU"/>
+    <site url="google.com" login="jane@gmail.com" password="PASSWORD_FOR_GOOGLE"/>
+    <site url="github.com" login="jane@ya.ru" password="PASSWORD_FOR_GIT"/>
+</storage>
