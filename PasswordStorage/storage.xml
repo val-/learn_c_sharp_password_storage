@@ -1,6 +1,6 @@
 <storage>
-    <site url="yandex.ru" login="jane@ya.ru" password="PASSWORD_FOR_YANDEX"/>
-    <site url="mail.ru" login="jane@mail.ru" password="PASSWORD_FOR_MAIL_RU"/>
-    <site url="google.com" login="jane@gmail.com" password="PASSWORD_FOR_GOOGLE"/>
-    <site url="github.com" login="jane@ya.ru" password="PASSWORD_FOR_GIT"/>
+    <site url="yandex.ru" login="jane@ya.ru" password="e5_b0_46_83_76_56_c9_56_1a_19_55_17_38_9f_0e_ce_50_08_2e_a0_77_1b_70_ef_40_9d_b1_d3_46_c6_65_b5"/>
+    <site url="mail.ru" login="jane@mail.ru" password="50_15_e3_d6_2f_71_2d_76_6b_dd_dd_4f_2e_1d_55_ad_59_70_99_c8_b1_40_9f_28_80_23_49_cb_0f_2a_c0_2c"/>
+    <site url="google.com" login="jane@gmail.com" password="e8_35_5e_5b_45_33_08_c4_f8_c9_fd_d5_70_e5_f1_a2_8c_ad_63_5d_79_5a_93_e0_50_24_06_7c_89_b7_de_f7"/>
+    <site url="github.com" login="jane@ya.ru" password="8b_70_c5_7b_0b_49_b7_4e_06_a8_46_bf_f4_aa_95_1b_ab_d8_76_e3_6f_49_0c_9f_26_07_a2_4e_b9_47_c5_c2"/>
 </storage>
