@@ -115,9 +115,6 @@ namespace PasswordStorage
                 }
             }
 
-            // Return the encrypted bytes from the memory stream.
-            //return encrypted;
-
             return String.Join("_", encrypted.Select(b => b.ToString("x2")).ToArray());
 
         }
